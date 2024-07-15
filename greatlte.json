@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS-4.0-BETA-20240714-GAPPS_AOSP-COMMUNITY-greatlte-ota.zip",
+			"download": "",
+			"timestamp": 1720992390,
+			"md5": "76c04baf765232a5daeb32dc98457191",
+			"sha256": "26565a33fed7e71a2f5935c245f253f362536ef71dcdcf68c5c533c79d5660d0",
+			"size": 1857508038,
+			"version": "4.0-Kailash",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
