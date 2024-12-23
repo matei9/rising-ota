@@ -1,2 +1,11 @@
-    Snynced
-    It does not ship with camera, but any camera app would work
+[23.12.2024]
+- Synced with sources.
+- OTA fixed.
+- Random reboots fixed (from my testing).
+- Camera added.
+- Signed build.
+
+
+[27.07.2024]
+- Snynced
+- It does not ship with camera, but any camera app would work
